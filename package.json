@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juanpa123locko/English-Made-Easy.git"
+    "url": "git+https://github.com/juanpa123locko/TecnotroniComponents.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/juanpa123locko/English-Made-Easy/issues"
+    "url": "https://github.com/juanpa123locko/TecnotroniComponents"
   },
-  "homepage": "https://github.com/juanpa123locko/English-Made-Easy#readme",
+  "homepage": "https://github.com/juanpa123locko/TecnotroniComponents#readme",
   "devDependencies": {
     "tailwindcss": "^3.2.6"
   }
